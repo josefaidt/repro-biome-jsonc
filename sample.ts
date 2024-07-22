@@ -1,0 +1,1 @@
+const noSemicolon = true
